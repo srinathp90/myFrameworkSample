@@ -22,7 +22,7 @@ pod "myFrameworkSample"
 
 ## Author
 
-srinath@codecraft.co.in, srinath@codecraft.co.in
+srinath@codecraft.co.in
 
 ## License
 
