@@ -1,0 +1,16 @@
+PODS:
+  - myFrameworkSample (0.1.0)
+
+DEPENDENCIES:
+  - myFrameworkSample (from `../`)
+
+EXTERNAL SOURCES:
+  myFrameworkSample:
+    :path: ../
+
+SPEC CHECKSUMS:
+  myFrameworkSample: 584a6f3cb43078ad743e85abae5a4f47b3458cbd
+
+PODFILE CHECKSUM: 9418ac619aaf0dade492677169d421e0e93f53e2
+
+COCOAPODS: 1.2.1

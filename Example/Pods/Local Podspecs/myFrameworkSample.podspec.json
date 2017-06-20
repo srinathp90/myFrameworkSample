@@ -1,0 +1,22 @@
+{
+  "name": "myFrameworkSample",
+  "version": "0.1.0",
+  "summary": "A short description of myFrameworkSample.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/srinath@codecraft.co.in/myFrameworkSample",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "srinath@codecraft.co.in": "srinath@codecraft.co.in"
+  },
+  "source": {
+    "git": "https://github.com/srinath@codecraft.co.in/myFrameworkSample.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "myFrameworkSample/Classes/**/*"
+}
